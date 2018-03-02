@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "MovieDetails.h"
+#import "JETSViewController.h"
 
 @interface MoviesCollectionView : UICollectionViewController<NSURLConnectionDelegate,NSURLConnectionDataDelegate>
 
